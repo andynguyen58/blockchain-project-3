@@ -19,3 +19,5 @@ yarn-error.log*
 # secret
 .infuraKey
 .mnemonic
+
+node_modules
